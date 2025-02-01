@@ -4,7 +4,7 @@
 - 📚 I'm currently studying Computer Science at Cal State Fullerton
 - 📫 How to reach me: lfoloifo@csu.fullerton.edu
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: Boy Mom of 2
+- ⚡ Fun fact: Boy Mom of 2 + 1
 
 <!---
 Debb1eL0w/Debb1eL0w is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
